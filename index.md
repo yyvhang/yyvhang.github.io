@@ -32,6 +32,6 @@ My current research focuses on embodied vision, especially let agents understand
 
 ## News and Updates
 
-- **July 2023：**One paper "Grounding 3D Object Affordance from 2D Interactions in Images" has been accepted by ICCV2023.
+- **July 2023：**One paper "Grounding 3D Object Affordance from 2D Interactions in Images" has been accepted by <font color='red'>ICCV2023</font>.
 
 <br>
