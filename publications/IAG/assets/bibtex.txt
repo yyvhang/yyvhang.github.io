@@ -1,6 +1,8 @@
-@article{yang2023grounding,
-  title={Grounding 3D Object Affordance from 2D Interactions in Images},
-  author={Yang, Yuhang and Zhai, Wei and Luo, Hongchen and Cao, Yang and Luo, Jiebo and Zha, Zheng-Jun},
-  journal={arXiv preprint arXiv:2303.10437},
-  year={2023}
+@InProceedings{Yang_2023_ICCV,
+    author    = {Yang, Yuhang and Zhai, Wei and Luo, Hongchen and Cao, Yang and Luo, Jiebo and Zha, Zheng-Jun},
+    title     = {Grounding 3D Object Affordance from 2D Interactions in Images},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2023},
+    pages     = {10905-10915}
 }
