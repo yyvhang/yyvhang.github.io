@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-I am currently a graduate student in University of Science and Technology of China (USTC), advised by [Yang Cao](https://staff.iaticetc.cn:1234/) and Zheng-Jun Zha.
+I am currently a graduate student in University of Science and Technology of China (USTC), advised by [Yang Cao](https://staff.iaticetc.cn:1234/) and Professor Zheng-Jun Zha. 
 
 <br>
 
@@ -15,8 +15,6 @@ I am currently a graduate student in University of Science and Technology of Chi
 <!-- - **Sep 2022 - Now:** University of Science and Technology of China (USTC)
 - **Sep 2018 - June 2022:** SiChuan Agriculture University (SICAU) -->
 
-<br>
-
 ---
 
 ## Research Interests
@@ -24,8 +22,7 @@ I am currently a graduate student in University of Science and Technology of Chi
 - Embodied Vision
 - Human-Object Interaction Understanding
 
-My current research focuses on embodied vision, especially let agents understand how to interact with objects and human object interaction (HOI) parsing.
-
+My current research focuses on embodied vision, especially making machines learn and parse interaction factors from human-object interactions, thus empowering agents to improve their human-like skills.
 <br>
 
 ---
