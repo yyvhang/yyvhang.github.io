@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-I am currently a graduate student in University of Science and Technology of China (USTC), advised by [Yang Cao](https://staff.iaticetc.cn:1234/) and Professor Zheng-Jun Zha. 
+I'm currently a master student in University of Science and Technology of China (USTC), start from 2022, advised by [Yang Cao](https://staff.iaticetc.cn:1234/) and Professor Zheng-Jun Zha. 
 
 <br>
 
@@ -29,6 +29,16 @@ My current research focuses on embodied vision, especially making machines learn
 
 ## News and Updates
 
-- **July 2023：**One paper "Grounding 3D Object Affordance from 2D Interactions in Images" has been accepted by <font color='red'>ICCV2023</font>.
+- **July 2023：**One paper "Grounding 3D Object Affordance from 2D Interactions in Images" has been accepted by <font color='red'>ICCV2023</font>, [project page](https://yyvhang.github.io/publications/IAG/index.html).
 
 <br>
+
+## Internships
+- 2022.03-2022.06: [Hellobike](https://www.hello-inc.com/) in Shanghai, China
+
+<br>
+
+## Honors and Awards
+- 2023: Huawei Scholarship
+- 2021: National Scholarship
+
