@@ -19,22 +19,22 @@ Lastest Update: 15 December 2023
   <tr>
     <!-- 左栏：放置图像或GIF -->
     <td style="width: 35%;">
-      <img src="https://yyvhang.github.io/images/LEMON.gif" width="100%" height="100%"/>
+      <img src="https://yyvhang.github.io/images/LEMON.gif" width="90%" height="100%"/>
     </td>
-    <td style="width: 60%;">
+    <td style="width: 55%;">
       LEMON: Learning 3D Human-Object Interaction Relation from 2D Images. <br><a href="https://yyvhang.github.io/LEMON/">Project</a>, <a href="https://arxiv.org/pdf/2312.08963.pdf">Paper</a>, <a href="https://github.com/yyvhang/lemon_3d">Code</a> <br>
       <strong>Yuhang Yang</strong>, Wei Zhai, Hongchen Luo, Yang Cao, Zheng-Jun Zha.
     </td>
   </tr>
 </table>
-
+<br>
 <table style="width: 100%; table-layout: fixed;">
   <tr>
     <!-- 左栏：放置图像或GIF -->
     <td style="width: 35%;">
-      <img src="https://yyvhang.github.io/images/IAG.gif" width="100%" height="100%"/>
+      <img src="https://yyvhang.github.io/images/IAG.gif" width="90%" height="100%"/>
     </td>
-    <td style="width: 60%;">
+    <td style="width: 55%;">
       Grounding 3D Object Affordance from 2D Interactions in Images. <font color='red'>(ICCV-2023)</font> <br><a href="https://yyvhang.github.io/publications/IAG/index.html">Project</a>, <a href="https://arxiv.org/abs/2303.10437">Paper</a>, <a href="https://github.com/yyvhang/IAGNet">Code</a> <br>
       <strong>Yuhang Yang</strong>, Wei Zhai, Hongchen Luo, Yang Cao, Jiebo Luo, Zheng-Jun Zha.
     </td>
