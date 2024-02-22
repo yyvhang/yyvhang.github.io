@@ -19,7 +19,7 @@ Lastest Update: 15 December 2023
   <tr>
     <!-- 左栏：放置图像或GIF -->
     <td style="width: 35%;">
-      <img src="https://yyvhang.github.io/images/LEMON.gif" width="90%" height="100%"/>
+      <img src="https://yyvhang.github.io/images/lemon.gif" width="90%" height="100%"/>
     </td>
     <td style="width: 55%;">
       LEMON: Learning 3D Human-Object Interaction Relation from 2D Images. <br><a href="https://yyvhang.github.io/LEMON/">Project</a>, <a href="https://arxiv.org/pdf/2312.08963.pdf">Paper</a>, <a href="https://github.com/yyvhang/lemon_3d">Code</a> <br>
