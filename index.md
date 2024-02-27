@@ -28,8 +28,8 @@ My current research focuses on embodied vision, especially making machines learn
 ---
 
 ## News and Updates
-- **February 2024：**Our work "[<u>LEMON: Learning 3D Human-Object Interaction Relation from 2D Images</u>](https://yyvhang.github.io/LEMON/)" has been accepted by <font color='red'>CVPR2024</font>.
-- **July 2023：**Our work "[<u>Grounding 3D Object Affordance from 2D Interactions in Images</u>](https://yyvhang.github.io/publications/IAG/index.html)" has been accepted by <font color='red'>ICCV2023</font>.
+- **February 2024：**Our work "[LEMON: Learning 3D Human-Object Interaction Relation from 2D Images](https://yyvhang.github.io/LEMON/)" has been accepted by <font color='red'>CVPR2024</font>.
+- **July 2023：**Our work "[Grounding 3D Object Affordance from 2D Interactions in Images](https://yyvhang.github.io/publications/IAG/index.html)" has been accepted by <font color='red'>ICCV2023</font>.
 
 <br>
 
