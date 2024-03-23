@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-I'm currently a master student at University of Science and Technology of China (USTC), start from 2022, advised by [Yang Cao](https://staff.iaticetc.cn:1234/) and Prof. [Zheng-Jun Zha](https://scholar.google.com.hk/citations?hl=zh-CN&user=gDnBC1gAAAAJ).
+I'm currently a master student at University of Science and Technology of China (USTC), start from 2022, advised by [Yang Cao](https://scholar.google.com.hk/citations?hl=zh-CN&user=K7rTHNcAAAAJ) and Prof. [Zheng-Jun Zha](https://scholar.google.com.hk/citations?hl=zh-CN&user=gDnBC1gAAAAJ).
 
 <br>
 
