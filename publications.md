@@ -22,7 +22,7 @@ Lastest Update: 2024.02.27
       <img src="https://yyvhang.github.io/images/LEMON.gif" width="90%" height="100%"/>
     </td>
     <td style="width: 55%;">
-      LEMON: Learning 3D Human-Object Interaction Relation from 2D Images. <font color='red'>(CVPR-2024)</font> <br><a href="https://yyvhang.github.io/LEMON/"><u>Project</u></a>, <a href="https://arxiv.org/pdf/2312.08963.pdf"><u>Paper</u></a>, <a href="https://github.com/yyvhang/lemon_3d"><u>Code</u></a> <br>
+      LEMON: Learning 3D Human-Object Interaction Relation from 2D Images. <font color='red'>(CVPR-2024)</font> <br><a href="https://yyvhang.github.io/LEMON/"><u>Project</u></a>, <a href="https://arxiv.org/abs/2312.08963"><u>Paper</u></a>, <a href="https://github.com/yyvhang/lemon_3d"><u>Code</u></a> <br>
       <strong>Yuhang Yang</strong>, Wei Zhai, Hongchen Luo, Yang Cao, Zheng-Jun Zha.
     </td>
   </tr>
