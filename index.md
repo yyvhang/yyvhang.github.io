@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-I'm currently a master student at University of Science and Technology of China (USTC), start from 2022, advised by [Yang Cao](https://scholar.google.com.hk/citations?hl=zh-CN&user=K7rTHNcAAAAJ) and Prof. [Zheng-Jun Zha](https://scholar.google.com.hk/citations?hl=zh-CN&user=gDnBC1gAAAAJ).
+I'm currently a second year master student at University of Science and Technology of China (USTC), advised by [Yang Cao](https://scholar.google.com.hk/citations?hl=zh-CN&user=K7rTHNcAAAAJ) and Prof. [Zheng-Jun Zha](https://scholar.google.com.hk/citations?hl=zh-CN&user=gDnBC1gAAAAJ). <font color='red'>I'm looking for a PhD position in Fall, 2025</font>.
 
 <br>
 
@@ -19,15 +19,16 @@ I'm currently a master student at University of Science and Technology of China 
 
 ## Research Interests
 
-- Embodied Vision
+- Embodied Perception
 - Human-Object Interaction Understanding
 
-My current research focuses on embodied vision, especially making machines learn and parse interaction factors from human-object interactions, thus empowering agents to improve their human-like skills.
+My current research focuses on parsing elements in human-object interactions (HOIs), covering semantics, spatial relations, and geometries. Thest elements link interaction intentions to final operations, holding the potential to facilitate downstream applications like embodied AI and interaction modeling in graphics.
 <br>
 
 ---
 
 ## News and Updates
+- **April  2024：**LEMON gets invited to join the poster session of [Humans Workshop](https://sites.google.com/view/3d-humans-cvpr2024)".
 - **February 2024：**Our work "[LEMON: Learning 3D Human-Object Interaction Relation from 2D Images](https://yyvhang.github.io/LEMON/)" gets accepted to <font color='red'>CVPR2024</font>.
 - **July 2023：**Our work "[Grounding 3D Object Affordance from 2D Interactions in Images](https://yyvhang.github.io/publications/IAG/index.html)" gets accepted to <font color='red'>ICCV2023</font>.
 
