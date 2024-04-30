@@ -39,7 +39,10 @@ My current research focuses on parsing elements in human-object interactions (HO
 
 <br>
 
-## Honors and Awards
-- 2023: Huawei Scholarship
-- 2021: National Scholarship
+## Honors & Awards
+- National Scholarship (2021)
+- Huawei Scholarship (2023)
+- Outstanding Graduates (2022)
+- First Class Scholarship (2022, 2023)
+- China Collegiate Computing Contest (C4-AI), National First Prize (2020)
 
