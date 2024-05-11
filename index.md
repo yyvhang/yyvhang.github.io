@@ -22,7 +22,7 @@ I'm currently a second year master student at University of Science and Technolo
 - Embodied Perception
 - Human-Object Interaction Understanding
 
-My current research focuses on parsing elements in human-object interactions (HOIs), covering semantics, spatial relations, and geometries. Thest elements link interaction intentions to final operations, holding the potential to facilitate downstream applications like embodied AI and interaction modeling in graphics.
+My current research focuses on parsing 3D human-object interactions (HOIs), encompassing semantics, spatial relations, and geometries. The goal is to link interaction intentions with final operations through parsing interaction elements, thereby facilitating interaction reconstruction and generation in embodied AI and graphics.
 <br>
 
 ---
