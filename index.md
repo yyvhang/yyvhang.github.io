@@ -27,7 +27,7 @@ My current research focuses on parsing 3D human-object interactions (HOIs), enco
 
 ---
 
-## Newsbs
+## News
 - **May 2024：** One page [abstract](https://yyvhang.github.io/file/LEMON_abstract.pdf) of LEMON gets accepted to [2nd RHOBIN Workshop (CVPR2024)](https://rhobin-challenge.github.io/).
 - **April 2024：** LEMON gets invited to join the [poster](https://yyvhang.github.io/file/LEMON_poster.pdf) session of [Humans Workshop (CVPR2024)](https://sites.google.com/view/3d-humans-cvpr2024).
 - **February 2024：** Our work "[LEMON: Learning 3D Human-Object Interaction Relation from 2D Images](https://yyvhang.github.io/LEMON/)" gets accepted to <font color='red'>CVPR2024</font>.
