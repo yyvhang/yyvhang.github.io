@@ -19,6 +19,19 @@ Lastest Update: 2024.02.27
   <tr>
     <!-- 左栏：放置图像或GIF -->
     <td style="width: 35%;">
+      <img src="https://yyvhang.github.io/images/EgoChoir.gif" width="90%" height="100%"/>
+    </td>
+    <td style="width: 55%;">
+      EgoChoir: Capturing 3D Human-Object Interaction Regions from Egocentric Views. (Arxiv 2024) <br><a href="https://yyvhang.github.io/EgoChoir/"><u>Project</u></a>, <a href=""><u>Paper</u></a>, <a href="https://github.com/yyvhang/EgoChoir_release?tab=readme-ov-file"><u>Code</u></a> <br>
+      <strong>Yuhang Yang</strong>, Wei Zhai, Chengfeng Wang, Chengjun Yu,Yang Cao, Zheng-Jun Zha.
+    </td>
+  </tr>
+</table>
+<br>
+<table style="width: 100%; table-layout: fixed;">
+  <tr>
+    <!-- 左栏：放置图像或GIF -->
+    <td style="width: 35%;">
       <img src="https://yyvhang.github.io/images/LEMON.gif" width="90%" height="100%"/>
     </td>
     <td style="width: 55%;">
