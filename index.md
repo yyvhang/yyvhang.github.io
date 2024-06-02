@@ -4,8 +4,7 @@ layout: page
 
 # About Me
 
-I'm currently a second year master student at University of Science and Technology of China (USTC), advised by [Yang Cao](https://scholar.google.com.hk/citations?hl=zh-CN&user=K7rTHNcAAAAJ) and Prof. [Zheng-Jun Zha](https://scholar.google.com.hk/citations?hl=zh-CN&user=gDnBC1gAAAAJ). <font color='red'>I'm looking for a PhD position in Fall, 2025</font>, feel free to reach out to me!
-
+I'm currently a second year master student at University of Science and Technology of China (USTC), advised by [Yang Cao](https://scholar.google.com.hk/citations?hl=zh-CN&user=K7rTHNcAAAAJ) and Prof. [Zheng-Jun Zha](https://scholar.google.com.hk/citations?hl=zh-CN&user=gDnBC1gAAAAJ).
 <br>
 
 <!-- ## Academic Background -->
