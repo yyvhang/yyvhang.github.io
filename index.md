@@ -44,5 +44,6 @@ My current research focuses on parsing 3D human-object interactions (HOIs), enco
 - Huawei Scholarship (2023)
 - Outstanding Graduates (2022)
 - First Class Scholarship (2022, 2023)
+- Second Place of RHOBIN-DAMON Challenge at CVPR 2024
 - China Collegiate Computing Contest (C4-AI), National First Prize (2020)
 
