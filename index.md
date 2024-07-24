@@ -4,15 +4,14 @@ layout: page
 
 # About Me
 
-I'm currently a second year master student at University of Science and Technology of China (USTC), advised by [Yang Cao](https://scholar.google.com.hk/citations?hl=zh-CN&user=K7rTHNcAAAAJ) and Prof. [Zheng-Jun Zha](https://scholar.google.com.hk/citations?hl=zh-CN&user=gDnBC1gAAAAJ).
+I'm currently a second year master student at University of Science and Technology of China (USTC), advised by [Yang Cao](https://scholar.google.com.hk/citations?hl=zh-CN&user=K7rTHNcAAAAJ) and Prof. Zheng-Jun Zha.
 <br>
 
 ---
 
 ## Research Interests
-
+- Human-Object Interaction Understanding/Generation
 - Embodied Perception
-- Human-Object Interaction Understanding
 
 My current research focuses on parsing 3D human-object interactions (HOIs), encompassing semantics, spatial relations, and geometries. The goal is to link interaction intentions with final operations through parsing interaction elements, thereby facilitating interaction reconstruction and generation in embodied AI and graphics.
 <br>
