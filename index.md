@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-I'm currently a second year master student at University of Science and Technology of China (USTC), advised by [Yang Cao](https://scholar.google.com.hk/citations?hl=zh-CN&user=K7rTHNcAAAAJ) and Prof. Zheng-Jun Zha.
+I'm currently a second year master student at University of Science and Technology of China (USTC), advised by [Yang Cao](https://scholar.google.com.hk/citations?hl=zh-CN&user=K7rTHNcAAAAJ) and Prof. [Zheng-Jun Zha](https://scholar.google.com.hk/citations?user=gDnBC1gAAAAJ&hl=zh-CN).
 <br>
 
 ---
@@ -27,7 +27,7 @@ My current research focuses on parsing 3D human-object interactions (HOIs), enco
 <br>
 
 ## Internships
-- 2022.03-2022.06: [Hellobike](https://www.hello-inc.com/) in Shanghai, China
+- 2024.09-Now: Shanghai AI Lab, China
 
 <br>
 
