@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-I'm currently a second year master student at University of Science and Technology of China (USTC), advised by [Yang Cao](https://scholar.google.com.hk/citations?hl=zh-CN&user=K7rTHNcAAAAJ) and Prof. [Zheng-Jun Zha](https://scholar.google.com.hk/citations?user=gDnBC1gAAAAJ&hl=zh-CN).
+I'm currently a final year master student at University of Science and Technology of China (USTC), advised by [Yang Cao](https://scholar.google.com.hk/citations?hl=zh-CN&user=K7rTHNcAAAAJ) and Prof. [Zheng-Jun Zha](https://scholar.google.com.hk/citations?user=gDnBC1gAAAAJ&hl=zh-CN).
 <br>
 
 ---
@@ -19,6 +19,7 @@ My current research focuses on parsing 3D human-object interactions (HOIs), enco
 ---
 
 ## News
+- **September 2024：** Our work "[EgoChoir: Capturing 3D Human-Object Interaction Regions from Egocentric Views](https://yyvhang.github.io/EgoChoir/)" gets accepted to <font color='red'>NeurIPS2024</font>.
 - **June 2024：** 2nd place winner in the 3D contact estimation track of [RHOBIN](https://rhobin-challenge.github.io/) challenge at CVPR2024.
 - **April 2024：** LEMON gets invited to join the [poster](https://yyvhang.github.io/file/LEMON_poster.pdf) session of [Humans Workshop (CVPR2024)](https://sites.google.com/view/3d-humans-cvpr2024).
 - **February 2024：** Our work "[LEMON: Learning 3D Human-Object Interaction Relation from 2D Images](https://yyvhang.github.io/LEMON/)" gets accepted to <font color='red'>CVPR2024</font>.
