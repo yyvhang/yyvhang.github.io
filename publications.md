@@ -20,7 +20,7 @@ Lastest Update: 2024.10.08
   <tr>
     <!-- 左栏：放置图像或GIF -->
     <td style="width: 35%;">
-      <img src="https://yyvhang.github.io/images/Videogeneval.png" width="90%" height="100%"/>
+      <img src="https://yyvhang.github.io/images/VideoGen_Eval.png" width="90%" height="100%"/>
     </td>
     <td style="width: 55%;">
       The Dawn of Video Generation: Preliminary Explorations with SORA-like Models. <font color='red'>(Technical Report)</font> <br><a href="https://ailab-cvc.github.io/VideoGen-Eval/"><u>Project</u></a>, <a href="https://arxiv.org/pdf/2410.05227"><u>Paper</u></a>, <a href="https://github.com/AILab-CVC/VideoGen-Eval"><u>Github</u></a> <br>
