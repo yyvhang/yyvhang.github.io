@@ -6,7 +6,7 @@ title: Publications
 
 # Publications
 
-Lastest Update: 2024.09.26
+Lastest Update: 2024.10.08
 
 <!-- - LEMON: Learning 3D Human-Object Interaction Relation from 2D Images. [Project](https://yyvhang.github.io/LEMON/), [Paper](https://arxiv.org/pdf/2312.08963.pdf), [Code](https://github.com/yyvhang/lemon_3d)<br>**Yuhang Yang**, Wei Zhai, Hongchen Luo, Yang Cao, Zheng-Jun Zha.<br> -->
 
@@ -15,6 +15,20 @@ Lastest Update: 2024.09.26
 <img src="https://yyvhang.github.io/images/IAG_poster.png">
 </center> -->
 ## First author
+<sup>*</sup> indicates equal contribution.
+<table style="width: 100%; table-layout: fixed;">
+  <tr>
+    <!-- 左栏：放置图像或GIF -->
+    <td style="width: 35%;">
+      <img src="https://yyvhang.github.io/imagesVideogeneval.png" width="90%" height="100%"/>
+    </td>
+    <td style="width: 55%;">
+      The Dawn of Video Generation: Preliminary Explorations with SORA-like Models. <font color='red'>(Technical Report)</font> <br><a href="https://ailab-cvc.github.io/VideoGen-Eval/"><u>Project</u></a>, <a href="https://arxiv.org/pdf/2410.05227"><u>Paper</u></a>, <a href="https://github.com/AILab-CVC/VideoGen-Eval"><u>Github</u></a> <br>
+      Ailing Zhang<sup>*</sup>, <strong>Yuhang Yang<sup>*</sup></strong>, Weidong Chen, Wei Liu.
+    </td>
+  </tr>
+</table>
+<br>
 <table style="width: 100%; table-layout: fixed;">
   <tr>
     <!-- 左栏：放置图像或GIF -->

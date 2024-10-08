@@ -1,5 +1,6 @@
 ---
 layout: page
+allow_html: true
 ---
 
 # About Me
@@ -19,6 +20,7 @@ My current research focuses on parsing 3D human-object interactions (HOIs), enco
 ---
 
 ## News
+- **October 2024：** We release [VideoGen-Eval 1.0](https://ailab-cvc.github.io/VideoGen-Eval/). Systematic testing of existing commercial and open-source video generation models.
 - **September 2024：** Our work "[EgoChoir: Capturing 3D Human-Object Interaction Regions from Egocentric Views](https://yyvhang.github.io/EgoChoir/)" gets accepted to <font color='red'>NeurIPS2024</font>.
 - **June 2024：** 2nd place winner in the 3D contact estimation track of [RHOBIN](https://rhobin-challenge.github.io/) challenge at CVPR2024.
 - **April 2024：** LEMON gets invited to join the [poster](https://yyvhang.github.io/file/LEMON_poster.pdf) session of [Humans Workshop (CVPR2024)](https://sites.google.com/view/3d-humans-cvpr2024).
@@ -39,4 +41,3 @@ My current research focuses on parsing 3D human-object interactions (HOIs), enco
 - First Class Scholarship (2022, 2023)
 - Second Place Winner of RHOBIN-DAMON Challenge at CVPR 2024
 - China Collegiate Computing Contest (C4-AI), National First Prize (2020)
-
