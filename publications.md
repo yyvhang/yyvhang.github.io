@@ -24,7 +24,7 @@ Lastest Update: 2024.10.08
     </td>
     <td style="width: 55%;">
       The Dawn of Video Generation: Preliminary Explorations with SORA-like Models. <font color='red'>(Technical Report)</font> <br><a href="https://ailab-cvc.github.io/VideoGen-Eval/"><u>Project</u></a>, <a href="https://arxiv.org/pdf/2410.05227"><u>Paper</u></a>, <a href="https://github.com/AILab-CVC/VideoGen-Eval"><u>Github</u></a> <br>
-      Ailing Zhang<sup>*</sup>, <strong>Yuhang Yang<sup>*</sup></strong>, Weidong Chen, Wei Liu.
+      Ailing Zeng<sup>*</sup>, <strong>Yuhang Yang<sup>*</sup></strong>, Weidong Chen, Wei Liu.
     </td>
   </tr>
 </table>
