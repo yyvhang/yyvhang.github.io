@@ -35,7 +35,7 @@ My current research focuses on parsing 3D human-object interactions (HOIs), enco
 <br>
 
 ## Honors & Awards
-- National Scholarship (2021)
+- National Scholarship (2021, 2024)
 - Huawei Scholarship (2023)
 - Outstanding Graduates (2022)
 - First Class Scholarship (2022, 2023)
