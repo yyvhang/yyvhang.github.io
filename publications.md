@@ -71,11 +71,11 @@ Lastest Update: 2024.10.08
 ## Co-author
 <table style="width: 100%; table-layout: fixed;">
   <tr>
-    <td style="width: 35%;">
-      <img src="https://yyvhang.github.io/images/Dispose.gif" width="90%" height="100%"/>
+    <td style="width: 35%; text-align: center; vertical-align: middle;">
+      <img src="https://yyvhang.github.io/images/Dispose.gif" width="70%" height="80%"/>
     </td>
     <td style="width: 55%;">
-      The Dawn of Video Generation: Preliminary Explorations with SORA-like Models. <font color='red'>(ICLR-2025)</font> <br><a href="https://lihxxx.github.io/DisPose/"><u>Project</u></a>, <a href="https://arxiv.org/abs/2412.09349"><u>Paper</u></a>, <a href="https://github.com/lihxxx/DisPose"><u>Github</u></a> <br>
+      DisPose: Disentangling Pose Guidance for Controllable Human Image Animation. <font color='red'>(ICLR-2025)</font> <br><a href="https://lihxxx.github.io/DisPose/"><u>Project</u></a>, <a href="https://arxiv.org/abs/2412.09349"><u>Paper</u></a>, <a href="https://github.com/lihxxx/DisPose"><u>Github</u></a> <br>
       Hongxiang Li, Yaowei Li, <strong>Yuhang Yang</strong>, Junjie Cao, Zhihong Zhu, Xuxin Chen, Long Chen.
     </td>
   </tr>
