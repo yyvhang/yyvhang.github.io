@@ -67,3 +67,18 @@ Lastest Update: 2024.10.08
     </td>
   </tr>
 </table>
+
+## Co-author
+<table style="width: 100%; table-layout: fixed;">
+  <tr>
+    <td style="width: 35%;">
+      <img src="https://yyvhang.github.io/images/Dispose.gif" width="90%" height="100%"/>
+    </td>
+    <td style="width: 55%;">
+      The Dawn of Video Generation: Preliminary Explorations with SORA-like Models. <font color='red'>(ICLR-2025)</font> <br><a href="https://lihxxx.github.io/DisPose/"><u>Project</u></a>, <a href="https://arxiv.org/abs/2412.09349"><u>Paper</u></a>, <a href="https://github.com/lihxxx/DisPose"><u>Github</u></a> <br>
+      Hongxiang Li, Yaowei Li, <strong>Yuhang Yang</strong>, Junjie Cao, Zhihong Zhu, Xuxin Chen, Long Chen.
+    </td>
+  </tr>
+</table>
+<br>
+<table style="width: 100%; table-layout: fixed;">
