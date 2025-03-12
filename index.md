@@ -17,7 +17,8 @@ I'm currently a final year master student at University of Science and Technolog
 ---
 
 ## News
-- **January 2025：** One paper [DisPose](https://lihxxx.github.io/DisPose/) gets accepted to <font color='red'>ICLR2025</font>..
+- **March 2025：** One paper [GREAT](https://yawen-shao.github.io/GREAT/) gets accepted to <font color='red'>CVPR2025</font>.
+- **January 2025：** One paper [DisPose](https://lihxxx.github.io/DisPose/) gets accepted to <font color='red'>ICLR2025</font>.
 - **October 2024：** We release [VideoGen-Eval 1.0](https://ailab-cvc.github.io/VideoGen-Eval/). Systematic testing of existing commercial and open-source video generation models.
 - **September 2024：** Our work "[EgoChoir: Capturing 3D Human-Object Interaction Regions from Egocentric Views](https://yyvhang.github.io/EgoChoir/)" gets accepted to <font color='red'>NeurIPS2024</font>.
 - **June 2024：** 2nd place winner in the 3D contact estimation track of [RHOBIN](https://rhobin-challenge.github.io/) challenge at CVPR2024.

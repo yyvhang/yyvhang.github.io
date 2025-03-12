@@ -6,14 +6,7 @@ title: Publications
 
 # Publications
 
-Lastest Update: 2024.10.08
-
-<!-- - LEMON: Learning 3D Human-Object Interaction Relation from 2D Images. [Project](https://yyvhang.github.io/LEMON/), [Paper](https://arxiv.org/pdf/2312.08963.pdf), [Code](https://github.com/yyvhang/lemon_3d)<br>**Yuhang Yang**, Wei Zhai, Hongchen Luo, Yang Cao, Zheng-Jun Zha.<br> -->
-
-<!-- - Grounding 3D Object Affordance from 2D Interactions in Images <font color='red'>(ICCV-2023)</font>. [Project](https://yyvhang.github.io/publications/IAG/index.html), [Paper](https://arxiv.org/abs/2303.10437), [Code](https://github.com/yyvhang/IAGNet)<br>**Yuhang Yang**, Wei Zhai, Hongchen Luo, Yang Cao, Jiebo Luo, Zheng-Jun Zha.<br>
-<center>
-<img src="https://yyvhang.github.io/images/IAG_poster.png">
-</center> -->
+Lastest Update: 2025.03.12
 ## First author
 <sup>*</sup> indicates equal contribution.
 <table style="width: 100%; table-layout: fixed;">
@@ -69,6 +62,19 @@ Lastest Update: 2024.10.08
 </table>
 
 ## Co-author
+<table style="width: 100%; table-layout: fixed;">
+  <tr>
+    <!-- 左栏：放置图像或GIF -->
+    <td style="width: 35%;">
+      <img src="https://yyvhang.github.io/images/GREAT.png" width="90%" height="100%"/>
+    </td>
+    <td style="width: 55%;">
+      GREAT: Geometry-Intention Collaborative Inference for Open-Vocabulary 3D Object Affordance Grounding. <font color='red'>(CVPR-2025)</font> <br><a href="https://yawen-shao.github.io/GREAT/"><u>Project</u></a>, <a href="https://arxiv.org/abs/2411.19626"><u>Paper</u></a>, <a href="https://github.com/yawen-shao/GREAT_code"><u>Code</u></a> <br>
+      Yawen Shao, Wei Zhai, <strong>Yuhang Yang</strong>, Hongchen Luo, Yang Cao, Zheng-Jun Zha.
+    </td>
+  </tr>
+</table>
+
 <table style="width: 100%; table-layout: fixed;">
   <tr>
     <td style="width: 35%; text-align: center; vertical-align: middle;">
