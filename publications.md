@@ -13,11 +13,24 @@ Lastest Update: 2025.03.12
   <tr>
     <!-- 左栏：放置图像或GIF -->
     <td style="width: 35%;">
+      <img src="https://yyvhang.github.io/images/SIGMAN.gif" width="90%" height="100%"/>
+    </td>
+    <td style="width: 55%;">
+      SIGMAN: Scaling 3D Human Gaussian Generation with Millions of Assets. (arxiv2025) <br><a href="https://yyvhang.github.io/SIGMAN_3D/"><u>Project</u></a>, <a href="https://arxiv.org/abs/2504.06982"><u>Paper</u></a>, <a href="https://github.com/yyvhang/SIGMAN_release"><u>Github</u></a> <br>
+      <strong>Yuhang Yang<sup>*</sup></strong>, Fengqi Liu<sup>*</sup>, Yixing Lu, Qin Zhao, Pingyu Wu, Wei Zhai, Ran Yi, Yang Cao, Lizhuang Ma, Zheng-Jun Zha, Junting Dong.
+    </td>
+  </tr>
+</table>
+<br>
+<table style="width: 100%; table-layout: fixed;">
+  <tr>
+    <!-- 左栏：放置图像或GIF -->
+    <td style="width: 35%;">
       <img src="https://yyvhang.github.io/images/VideoGen_Eval.png" width="90%" height="100%"/>
     </td>
     <td style="width: 55%;">
-      The Dawn of Video Generation: Preliminary Explorations with SORA-like Models. <font color='red'>(Technical Report)</font> <br><a href="https://ailab-cvc.github.io/VideoGen-Eval/"><u>Project</u></a>, <a href="https://arxiv.org/pdf/2410.05227"><u>Paper</u></a>, <a href="https://github.com/AILab-CVC/VideoGen-Eval"><u>Github</u></a> <br>
-      Ailing Zeng<sup>*</sup>, <strong>Yuhang Yang<sup>*</sup></strong>, Weidong Chen, Wei Liu.
+      VideoGen-Eval: Agent-based System for Video Generation Evaluation. (arxiv2025) <br><a href="https://ailab-cvc.github.io/VideoGen-Eval/"><u>Project</u></a>, <a href="https://arxiv.org/abs/2503.23452"><u>Evaluation Paper</u></a>, <a href="https://arxiv.org/pdf/2410.05227"><u>Survey Paper</u></a>, <a href="https://github.com/AILab-CVC/VideoGen-Eval"><u>Github</u></a> <br>
+      <strong>Yuhang Yang</strong>, Ke Fan, Shangkun Sun, Hongxiang Li, Ailing Zeng, Feilin Han, Wei Zhai, Wei Liu, Yang Cao, Zheng-Jun Zha.
     </td>
   </tr>
 </table>
