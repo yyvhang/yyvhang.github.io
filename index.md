@@ -5,7 +5,7 @@ allow_html: true
 
 # About Me
 
-I'm currently a final year master student at University of Science and Technology of China (USTC), advised by [Yang Cao](https://scholar.google.com.hk/citations?hl=zh-CN&user=K7rTHNcAAAAJ) and Prof. [Zheng-Jun Zha](https://scholar.google.com.hk/citations?user=gDnBC1gAAAAJ&hl=zh-CN).
+I'm a PHD student at University of Science and Technology of China (USTC), advised by [Yang Cao](https://scholar.google.com.hk/citations?hl=zh-CN&user=K7rTHNcAAAAJ) and Prof. [Zheng-Jun Zha](https://scholar.google.com.hk/citations?user=gDnBC1gAAAAJ&hl=zh-CN).
 <br>
 
 ---
