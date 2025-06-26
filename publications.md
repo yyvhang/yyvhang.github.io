@@ -29,7 +29,7 @@ Lastest Update: 2025.03.12
       <img src="https://yyvhang.github.io/images/VideoGen_Eval.png" width="90%" height="100%"/>
     </td>
     <td style="width: 55%;">
-      VideoGen-Eval: Agent-based System for Video Generation Evaluation. (arxiv2025) <br><a href="https://ailab-cvc.github.io/VideoGen-Eval/"><u>Project</u></a>, <a href="https://arxiv.org/abs/2503.23452"><u>Evaluation Paper</u></a>, <a href="https://arxiv.org/pdf/2410.05227"><u>Survey Paper</u></a>, <a href="https://github.com/AILab-CVC/VideoGen-Eval"><u>Github</u></a> <br>
+      VideoGen-Eval: Agent-based System for Video Generation Evaluation. (Technical-Report) <br><a href="https://ailab-cvc.github.io/VideoGen-Eval/"><u>Project</u></a>, <a href="https://arxiv.org/abs/2503.23452"><u>Evaluation Paper</u></a>, <a href="https://arxiv.org/pdf/2410.05227"><u>Survey Paper</u></a>, <a href="https://github.com/AILab-CVC/VideoGen-Eval"><u>Github</u></a> <br>
       <strong>Yuhang Yang</strong>, Ke Fan, Shangkun Sun, Hongxiang Li, Ailing Zeng, Feilin Han, Wei Zhai, Wei Liu, Yang Cao, Zheng-Jun Zha.
     </td>
   </tr>
