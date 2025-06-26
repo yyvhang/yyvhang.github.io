@@ -17,6 +17,7 @@ I'm a PHD student at University of Science and Technology of China (USTC), advis
 ---
 
 ## News
+- **June 2025：** Two papers: [SIGMAIN](https://yyvhang.github.io/SIGMAN_3D/) and [HERO](https://jackyu6.github.io/HERO/) get accepted to <font color='red'>ICCV2025</font>.
 - **March 2025：** One paper [GREAT](https://yawen-shao.github.io/GREAT/) gets accepted to <font color='red'>CVPR2025</font>.
 - **January 2025：** One paper [DisPose](https://lihxxx.github.io/DisPose/) gets accepted to <font color='red'>ICLR2025</font>.
 - **October 2024：** We release [VideoGen-Eval 1.0](https://ailab-cvc.github.io/VideoGen-Eval/). Systematic testing of existing commercial and open-source video generation models.
@@ -29,7 +30,8 @@ I'm a PHD student at University of Science and Technology of China (USTC), advis
 <br>
 
 ## Internships
-- 2024.09-Now: Shanghai AI Lab, China
+- 2025.04-Now: Anuttacon, USA
+- 2024.09-2025.04: Shanghai AI Lab, China
 
 <br>
 
@@ -37,6 +39,5 @@ I'm a PHD student at University of Science and Technology of China (USTC), advis
 - National Scholarship (2021, 2024)
 - Huawei Scholarship (2023)
 - Outstanding Graduates (2022)
-- First Class Scholarship (2022, 2023)
 - Second Place Winner of RHOBIN-DAMON Challenge at CVPR 2024
 - China Collegiate Computing Contest (C4-AI), National First Prize (2020)

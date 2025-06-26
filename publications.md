@@ -16,7 +16,7 @@ Lastest Update: 2025.03.12
       <img src="https://yyvhang.github.io/images/SIGMAN.gif" width="90%" height="100%"/>
     </td>
     <td style="width: 55%;">
-      SIGMAN: Scaling 3D Human Gaussian Generation with Millions of Assets. (arxiv2025) <br><a href="https://yyvhang.github.io/SIGMAN_3D/"><u>Project</u></a>, <a href="https://arxiv.org/abs/2504.06982"><u>Paper</u></a>, <a href="https://github.com/yyvhang/SIGMAN_release"><u>Github</u></a> <br>
+      SIGMAN: Scaling 3D Human Gaussian Generation with Millions of Assets. <font color='red'>(ICCV-2025)</font> <br><a href="https://yyvhang.github.io/SIGMAN_3D/"><u>Project</u></a>, <a href="https://arxiv.org/abs/2504.06982"><u>Paper</u></a>, <a href="https://github.com/yyvhang/SIGMAN_release"><u>Github</u></a> <br>
       <strong>Yuhang Yang<sup>*</sup></strong>, Fengqi Liu<sup>*</sup>, Yixing Lu, Qin Zhao, Pingyu Wu, Wei Zhai, Ran Yi, Yang Cao, Lizhuang Ma, Zheng-Jun Zha, Junting Dong.
     </td>
   </tr>
@@ -75,6 +75,19 @@ Lastest Update: 2025.03.12
 </table>
 
 ## Co-author
+<table style="width: 100%; table-layout: fixed;">
+  <tr>
+    <!-- 左栏：放置图像或GIF -->
+    <td style="width: 35%;">
+      <img src="https://yyvhang.github.io/images/HERO.png" width="90%" height="100%"/>
+    </td>
+    <td style="width: 55%;">
+      HERO: Human Reaction Generation from Videos. <font color='red'>(ICCV-2025)</font> <br><a href="https://jackyu6.github.io/HERO/"><u>Project</u></a>, <a href="https://arxiv.org/pdf/2503.08270"><u>Paper</u></a>, <a href="https://github.com/JackYu6/HERO_release"><u>Code</u></a> <br>
+      Chengjun Yu, Wei Zhai, <strong>Yuhang Yang</strong>, Yang Cao, Zheng-Jun Zha.
+    </td>
+  </tr>
+</table>
+
 <table style="width: 100%; table-layout: fixed;">
   <tr>
     <!-- 左栏：放置图像或GIF -->
