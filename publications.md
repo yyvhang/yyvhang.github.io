@@ -109,7 +109,7 @@ Lastest Update: 2026.01.26
     </td>
     <td style="width: 55%;">
       DanceTogether: Generating Interactive Multi-Person Video without Identity Drifting. <font color='red'>(ICLR-2026)</font> <br><a href="https://dancetog.github.io/"><u>Project</u></a>, <a href="https://arxiv.org/pdf/2510.11026"><u>Paper</u></a>, <a href="https://github.com/yisuanwang/DanceTog"><u>Code</u></a> <br>
-      Junhao Chen, Mingjin Chen, Jianjin Xu, Xiang Li, Junting Dong, Mingze Sun, Puhua Jiang, Hongxiang Li<strong>Yuhang Yang</strong>, Hao Zhao, Xiaoxiao Long, Ruiqi Huang.
+      Junhao Chen, Mingjin Chen, Jianjin Xu, Xiang Li, Junting Dong, Mingze Sun, Puhua Jiang, Hongxiang Li, <strong>Yuhang Yang</strong>, Hao Zhao, Xiaoxiao Long, Ruiqi Huang.
     </td>
   </tr>
 </table>
