@@ -6,7 +6,7 @@ title: Publications
 
 # Publications
 
-Lastest Update: 2025.03.12
+Lastest Update: 2026.01.26
 ## First author
 <sup>*</sup> indicates equal contribution.
 <table style="width: 100%; table-layout: fixed;">
@@ -75,6 +75,45 @@ Lastest Update: 2025.03.12
 </table>
 
 ## Co-author
+<table style="width: 100%; table-layout: fixed;">
+  <tr>
+    <!-- 左栏：放置图像或GIF -->
+    <td style="width: 35%;">
+      <img src="https://yyvhang.github.io/images/TOUCH.png" width="90%" height="100%"/>
+    </td>
+    <td style="width: 55%;">
+      TOUCH: Text-guided Controllable Generation of Free-Form Hand-Object Interactions. <font color='red'>(ICLR-2026)</font> <br><a href="https://guangyid.github.io/hoi123touch"><u>Project</u></a>, <a href="https://arxiv.org/pdf/2510.14874"><u>Paper</u></a>, <a href="https://github.com/guangyid/TOUCH_release"><u>Code</u></a> <br>
+      Guangyi Han, Wei Zhai, <strong>Yuhang Yang</strong>, Yang Cao, Zheng-Jun Zha.
+    </td>
+  </tr>
+</table>
+
+<table style="width: 100%; table-layout: fixed;">
+  <tr>
+    <!-- 左栏：放置图像或GIF -->
+    <td style="width: 35%;">
+      <img src="https://yyvhang.github.io/images/GIR_Bench.png" width="90%" height="100%"/>
+    </td>
+    <td style="width: 55%;">
+      GIR-BENCH: VERSATILE BENCHMARK FOR GENERATING IMAGES WITH REASONING. <font color='red'>(ICLR-2026)</font> <br><a href="https://hkust-longgroup.github.io/GIR-Bench/"><u>Project</u></a>, <a href="https://arxiv.org/pdf/2510.11026"><u>Paper</u></a>, <a href="https://github.com/HKUST-LongGroup/GIR-Bench"><u>Code</u></a>, <a href="https://huggingface.co/datasets/lihxxx/GIR-Bench"><u>Data</u></a> <br>
+      Hongxiang Li, Yaowei Li, Bin Lin, Yuwei Niu, <strong>Yuhang Yang</strong>, Xiaoshuang Huang, Jiayin Cai, Xiaolong Jiang.
+    </td>
+  </tr>
+</table>
+
+<table style="width: 100%; table-layout: fixed;">
+  <tr>
+    <!-- 左栏：放置图像或GIF -->
+    <td style="width: 35%;">
+      <img src="https://yyvhang.github.io/images/DancTog.gif" width="90%" height="100%"/>
+    </td>
+    <td style="width: 55%;">
+      DanceTogether: Generating Interactive Multi-Person Video without Identity Drifting. <font color='red'>(ICLR-2026)</font> <br><a href="https://dancetog.github.io/"><u>Project</u></a>, <a href="https://arxiv.org/pdf/2510.11026"><u>Paper</u></a>, <a href="https://github.com/yisuanwang/DanceTog"><u>Code</u></a> <br>
+      Junhao Chen, Mingjin Chen, Jianjin Xu, Xiang Li, Junting Dong, Mingze Sun, Puhua Jiang, Hongxiang Li<strong>Yuhang Yang</strong>, Hao Zhao, Xiaoxiao Long, Ruiqi Huang.
+    </td>
+  </tr>
+</table>
+
 <table style="width: 100%; table-layout: fixed;">
   <tr>
     <!-- 左栏：放置图像或GIF -->
