@@ -5,7 +5,7 @@ allow_html: true
 
 # About Me
 
-I'm a PHD student at University of Science and Technology of China (USTC), advised by [Yang Cao](https://scholar.google.com.hk/citations?hl=zh-CN&user=K7rTHNcAAAAJ) and Prof. [Zheng-Jun Zha](https://scholar.google.com.hk/citations?user=gDnBC1gAAAAJ&hl=zh-CN).
+I'm a PHD student at University of Science and Technology of China (USTC), advised by [Yang Cao](https://scholar.google.com.hk/citations?hl=zh-CN&user=K7rTHNcAAAAJ) and Prof. [Zheng-Jun Zha](https://scholar.google.com.hk/citations?user=gDnBC1gAAAAJ&hl=zh-CN). <font color='red'>Graduating in 2027 and entering the job market in 2026. Open to opportunities and connections.</font>
 <br>
 
 ---
@@ -17,6 +17,7 @@ I'm a PHD student at University of Science and Technology of China (USTC), advis
 ---
 
 ## News
+- **February 2026：** One paper Gloria get accepted to <font color='red'>CVPR2026</font>.
 - **January 2026：** Three papers get accepted to <font color='red'>ICLR2026</font>.
 - **June 2025：** Two papers: [SIGMAIN](https://yyvhang.github.io/SIGMAN_3D/) and [HERO](https://jackyu6.github.io/HERO/) get accepted to <font color='red'>ICCV2025</font>.
 - **March 2025：** One paper [GREAT](https://yawen-shao.github.io/GREAT/) gets accepted to <font color='red'>CVPR2025</font>.
@@ -31,13 +32,15 @@ I'm a PHD student at University of Science and Technology of China (USTC), advis
 <br>
 
 ## Internships
-- 2024.09-2025.04: Shanghai AI Lab, China
+- 2025.04-2026.03: Anuttacon, USA
+- 2024.09-2025.03: Shanghai AI Lab, China
 
 <br>
 
 ## Honors & Awards
 - National Scholarship (2021, 2024)
 - Huawei Scholarship (2023)
+- NSFC: Research Fund for PhD Young Scholars (2025)
 - Outstanding Graduates (2022)
 - Champion of RHOBIN-DAMON Challenge at CVPR 2025
 - China Collegiate Computing Contest (C4-AI), National First Prize (2020)
