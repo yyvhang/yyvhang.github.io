@@ -11,7 +11,7 @@ I'm a PHD student at University of Science and Technology of China (USTC), advis
 ---
 
 ## Research Interests
-- Human-centric parsing, reassoning and generation
+- Human-centric generation, understanding; Video Generation
 <br>
 
 ---
