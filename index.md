@@ -32,7 +32,6 @@ I'm a PHD student at University of Science and Technology of China (USTC), advis
 <br>
 
 ## Internships
-- 2025.04-2026.03: Anuttacon, USA
 - 2024.09-2025.03: Shanghai AI Lab, China
 
 <br>
