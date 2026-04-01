@@ -16,7 +16,7 @@ Lastest Update: 2026.03.26
       <img src="https://yyvhang.github.io/images/Gloria.png" width="90%" height="100%"/>
     </td>
     <td style="width: 55%;">
-      Gloria: Consistent Character Video Generation via Content Anchors. <font color='red'>(CVPR-2026)</font> <br><a href="https://yyvhang.github.io/Gloria_Page/"><u>Project</u></a>, <a href="https://arxiv.org/abs/2603.29931"><u>Paper</u></a>, <a href="https://drive.google.com/file/d/1qJ8LgOxVSyuLJNFptkdKpwljustBVTO_/view"><u>Benchmark</u></a> <br>
+      Gloria: Consistent Character Video Generation via Content Anchors. <font color='red'>(CVPR-2026)</font> <br><a href="https://yyvhang.github.io/Gloria_Page/"><u>Project</u></a>, <a href=""><u>Paper</u></a>, <a href="https://drive.google.com/file/d/1qJ8LgOxVSyuLJNFptkdKpwljustBVTO_/view"><u>Benchmark</u></a> <br>
       <strong>Yuhang Yang</strong>, Fan Zhang, Huaijin Pi, Shuai Guo, Guowei Xu, Wei Zhai, Yang Cao, Zheng-Jun Zha.
     </td>
   </tr>
