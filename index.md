@@ -17,7 +17,7 @@ I'm a PHD student at University of Science and Technology of China (USTC), advis
 ---
 
 ## News
-- **February 2026：** One paper Gloria get accepted to <font color='red'>CVPR2026</font>.
+- **February 2026：** One paper [Gloria](https://yyvhang.github.io/Gloria_Page/) get accepted to <font color='red'>CVPR2026</font>.
 - **January 2026：** Three papers get accepted to <font color='red'>ICLR2026</font>.
 - **June 2025：** Two papers: [SIGMAIN](https://yyvhang.github.io/SIGMAN_3D/) and [HERO](https://jackyu6.github.io/HERO/) get accepted to <font color='red'>ICCV2025</font>.
 - **March 2025：** One paper [GREAT](https://yawen-shao.github.io/GREAT/) gets accepted to <font color='red'>CVPR2025</font>.
