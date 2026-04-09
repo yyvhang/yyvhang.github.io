@@ -17,6 +17,7 @@ I'm a PHD student at University of Science and Technology of China (USTC), advis
 ---
 
 ## News
+- **April 2026：** We introduce [LPM](https://large-performance-model.github.io/), a real-time, interactive video generation model.
 - **February 2026：** One paper [Gloria](https://yyvhang.github.io/Gloria_Page/) get accepted to <font color='red'>CVPR2026</font>.
 - **January 2026：** Three papers get accepted to <font color='red'>ICLR2026</font>.
 - **June 2025：** Two papers: [SIGMAIN](https://yyvhang.github.io/SIGMAN_3D/) and [HERO](https://jackyu6.github.io/HERO/) get accepted to <font color='red'>ICCV2025</font>.
@@ -32,6 +33,7 @@ I'm a PHD student at University of Science and Technology of China (USTC), advis
 <br>
 
 ## Internships
+- 2025.03-2026.04: Anuttacon, USA
 - 2024.09-2025.03: Shanghai AI Lab, China
 
 <br>

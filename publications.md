@@ -13,10 +13,23 @@ Lastest Update: 2026.03.26
   <tr>
     <!-- 左栏：放置图像或GIF -->
     <td style="width: 35%;">
+      <img src="https://yyvhang.github.io/images/LPM.gif" width="90%" height="100%"/>
+    </td>
+    <td style="width: 55%;">
+      LPM-1.0: Video-based Character Performance Model. <font color='red'>(Technical Report)</font> <br><a href="https://large-performance-model.github.io/"><u>Project</u></a>, <a href=""><u>Paper</u></a><br>
+      <strong>Core contributor</strong>
+    </td>
+  </tr>
+</table>
+<br>
+<table style="width: 100%; table-layout: fixed;">
+  <tr>
+    <!-- 左栏：放置图像或GIF -->
+    <td style="width: 35%;">
       <img src="https://yyvhang.github.io/images/Gloria.png" width="90%" height="100%"/>
     </td>
     <td style="width: 55%;">
-      Gloria: Consistent Character Video Generation via Content Anchors. <font color='red'>(CVPR-2026)</font> <br><a href="https://yyvhang.github.io/Gloria_Page/"><u>Project</u></a>, <a href=""><u>Paper</u></a>, <a href="https://drive.google.com/file/d/1qJ8LgOxVSyuLJNFptkdKpwljustBVTO_/view"><u>Benchmark</u></a> <br>
+      Gloria: Consistent Character Video Generation via Content Anchors. <font color='red'>(CVPR-2026)</font> <br><a href="https://yyvhang.github.io/Gloria_Page/"><u>Project</u></a>, <a href="https://arxiv.org/pdf/2603.29931"><u>Paper</u></a>, <a href="https://drive.google.com/file/d/1qJ8LgOxVSyuLJNFptkdKpwljustBVTO_/view"><u>Benchmark</u></a> <br>
       <strong>Yuhang Yang</strong>, Fan Zhang, Huaijin Pi, Shuai Guo, Guowei Xu, Wei Zhai, Yang Cao, Zheng-Jun Zha.
     </td>
   </tr>
