@@ -16,7 +16,7 @@ Lastest Update: 2026.03.26
       <img src="https://yyvhang.github.io/images/LPM.gif" width="90%" height="100%"/>
     </td>
     <td style="width: 55%;">
-      LPM-1.0: Video-based Character Performance Model. <font color='red'>(Technical Report)</font> <br><a href="https://large-performance-model.github.io/"><u>Project</u></a>, <a href=""><u>Paper</u></a><br>
+      LPM-1.0: Video-based Character Performance Model. <font color='red'>(Project)</font> <br><a href="https://large-performance-model.github.io/"><u>Project</u></a>, <a href="https://arxiv.org/abs/2604.07823"><u>Technical Report</u></a><br>
       <strong>Core contributor</strong>
     </td>
   </tr>
