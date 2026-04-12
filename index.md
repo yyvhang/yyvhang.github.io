@@ -18,14 +18,13 @@ I'm a PHD student at University of Science and Technology of China (USTC), advis
 
 ## News
 - **April 2026：** We introduce [LPM](https://large-performance-model.github.io/), a real-time, interactive video generation model.
-- **February 2026：** One paper [Gloria](https://yyvhang.github.io/Gloria_Page/) get accepted to <font color='red'>CVPR2026</font>.
+- **February 2026：** One paper [Gloria](https://yyvhang.github.io/Gloria_Page/) gets accepted to <font color='red'>CVPR2026</font>.
 - **January 2026：** Three papers get accepted to <font color='red'>ICLR2026</font>.
 - **June 2025：** Two papers: [SIGMAIN](https://yyvhang.github.io/SIGMAN_3D/) and [HERO](https://jackyu6.github.io/HERO/) get accepted to <font color='red'>ICCV2025</font>.
 - **March 2025：** One paper [GREAT](https://yawen-shao.github.io/GREAT/) gets accepted to <font color='red'>CVPR2025</font>.
 - **January 2025：** One paper [DisPose](https://lihxxx.github.io/DisPose/) gets accepted to <font color='red'>ICLR2025</font>.
 - **October 2024：** We release [VideoGen-Eval 1.0](https://ailab-cvc.github.io/VideoGen-Eval/). Systematic testing of existing commercial and open-source video generation models.
 - **September 2024：** Our work "[EgoChoir: Capturing 3D Human-Object Interaction Regions from Egocentric Views](https://yyvhang.github.io/EgoChoir/)" gets accepted to <font color='red'>NeurIPS2024</font>.
-- **June 2024：** 2nd place winner in the 3D contact estimation track of [RHOBIN](https://rhobin-challenge.github.io/) challenge at CVPR2024.
 - **April 2024：** LEMON gets invited to join the [poster](https://yyvhang.github.io/file/LEMON_poster.pdf) session of [Humans Workshop (CVPR2024)](https://sites.google.com/view/3d-humans-cvpr2024).
 - **February 2024：** Our work "[LEMON: Learning 3D Human-Object Interaction Relation from 2D Images](https://yyvhang.github.io/LEMON/)" gets accepted to <font color='red'>CVPR2024</font>.
 - **July 2023：** Our work "[Grounding 3D Object Affordance from 2D Interactions in Images](https://yyvhang.github.io/publications/IAG/index.html)" gets accepted to <font color='red'>ICCV2023</font>.
