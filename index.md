@@ -32,6 +32,7 @@ I'm a PHD student at University of Science and Technology of China (USTC), advis
 <br>
 
 ## Internships
+- 2026.04-Now: Alibaba Token Foundry (Ali Star), China
 - 2025.03-2026.04: Anuttacon, USA
 - 2024.09-2025.03: Shanghai AI Lab, China
 
